@@ -1,0 +1,21 @@
+{
+  "name": "AmunRa Token",
+  "type": "POLYGON",
+  "symbol": "AMUNRA",
+  "decimals": 18,
+  "description": "AmunRa is an energy and impact token that rewards users for clean energy, donations, creativity, and community action.",
+  "website": "https://amunra.energy",
+  "explorer": "https://polygonscan.com/token/0xD27fA2E918994D777C91C91b003C4eD877b182B5",
+  "status": "active",
+  "id": "0xD27fA2E918994D777C91C91b003C4eD877b182B5",
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/amunraenergy"
+    },
+    {
+      "name": "medium",
+      "url": "https://medium.com/@amunra"
+    }
+  ]
+}
